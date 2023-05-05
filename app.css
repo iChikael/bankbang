@@ -1,0 +1,22 @@
+
+
+ .mdAction {
+    position: absolute;
+    top: 650px;
+    right: 100px;
+    bottom: 0;
+    left: -400;
+    z-index: 10040;
+    overflow: auto;
+    overflow-y: auto;
+  }
+
+ .modal-backdrop {
+    background-color: transparent;
+}
+
+
+      
+     
+      
+      
